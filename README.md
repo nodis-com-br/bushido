@@ -10,7 +10,7 @@ Cada problema deve ter apenas uma solução. A padronização/componentização 
 ## Desenvolver
 Garantir a flexibilidade, testabilidade, escalabilidade e manutenibilidade do software.
 
-Utilize todo o seu esforço e inteligência para criar soluções sólidas. Você não terá tempo para refazer as coisas!
+Utilize todo o seu esforço e inteligência para criar soluções sólidas. Você não terá tempo para refazer!
 
 ## Corrigir
 Qualquer bug deve ser corrigido imediatamente (na raiz). O nosso cliente não merece esperar! #THEREASON
@@ -18,7 +18,7 @@ Qualquer bug deve ser corrigido imediatamente (na raiz). O nosso cliente não me
 ## Contribuir
 Ajudar o time a conquistar resultados extraordinários. #TEAMPLAY
 
-Sempre coloque o time acima do individuo.
+Jogador sozinho não ganha campeonato.
 
 ## Organizar
 Manter o taskboard atualizado. Definir corretamente as estimativas, esforço e atividade das tarefas.
@@ -28,10 +28,7 @@ Precisamos identificar onde estão os problemas com extrema velocidade para não
 ## Monitorar
 Acompanhar os relatórios de performance, uptime, alertas de erro, etc. Nunca se omitir!
 
-É uma enorme VERGONHA descobrir um problema através dos clientes. ;(
-
-## Comunicar
-Avisar sempre que ocorrer um incidente. Quando começou, quando terminou, qual foi o impacto, como evitamos, etc.
+É uma enorme VERGONHA descobrir problemas através dos clientes.
 
 ## Ajudar
 Dar suporte aos demais times respeitando o SLA combinado.

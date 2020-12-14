@@ -1,5 +1,5 @@
 
-# O código de hora dos desenvolvedores
+# O código de honra dos desenvolvedores
 
 ## Entender
 Qual é o propósito? Quem vamos ajudar? Que números iremos melhorar? Isso faz sentido?

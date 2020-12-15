@@ -1,16 +1,16 @@
 
 # O código de honra dos desenvolvedores
 
-## Entender
-Qual é o propósito? Quem vamos ajudar? Que números iremos melhorar? Isso faz sentido?
+## Entender e questionar
+Qual é o propósito? Quem vamos ajudar? Que números iremos melhorar? Isso faz sentido? Isso é mesmo prioridade?
 
-## Padronizar
-Cada problema deve ter apenas uma solução. A padronização/componentização é o nosso segredo para velocidade e qualidade.
+## Padronizar e componentizar
+Cada problema deve ter apenas uma solução. A padronização e componentização são nossos segredos para garantir a velocidade, qualidade, flexibilidade, reaproveitamento..
 
 ## Desenvolver
 Garantir a flexibilidade, testabilidade, escalabilidade e manutenibilidade do software.
 
-Utilize todo o seu esforço e inteligência para criar soluções sólidas. Você não terá tempo para refazer!
+"Utilize todo o seu esforço e inteligência para criar soluções sólidas. Você não terá tempo para refazer!"
 
 ## Corrigir
 Qualquer bug deve ser corrigido imediatamente (na raiz). O nosso cliente não merece esperar! #THEREASON
@@ -18,17 +18,17 @@ Qualquer bug deve ser corrigido imediatamente (na raiz). O nosso cliente não me
 ## Contribuir
 Ajudar o time a conquistar resultados extraordinários. #TEAMPLAY
 
-Jogador sozinho não ganha campeonato.
+"Jogador sozinho não ganha campeonato."
 
 ## Organizar
 Manter o taskboard atualizado. Definir corretamente as estimativas, esforço e atividade das tarefas.
 
-Precisamos identificar onde estão os problemas com extrema velocidade para não perder o rumo.
+"Sem organização, não há otimização."
 
 ## Monitorar
 Acompanhar os relatórios de performance, uptime, alertas de erro, etc. Nunca se omitir!
 
-É uma enorme VERGONHA descobrir problemas através dos clientes.
+"É uma enorme VERGONHA descobrir problemas através dos clientes."
 
 ## Ajudar
 Dar suporte aos demais times respeitando o SLA combinado.
